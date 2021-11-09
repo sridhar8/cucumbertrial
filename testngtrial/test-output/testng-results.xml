@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-09T03:56:50Z" name="Default suite" finished-at="2021-11-09T03:57:39Z" duration-ms="49130">
+    <groups>
+    </groups>
+    <test started-at="2021-11-09T03:56:50Z" name="Default test" finished-at="2021-11-09T03:57:39Z" duration-ms="49130">
+      <class name="org.testngtrial.TestNgCheck">
+        <test-method is-config="true" signature="searchEngine()[pri:0, instance:org.testngtrial.TestNgCheck@5f577419]" started-at="2021-11-08T19:56:50Z" name="searchEngine" finished-at="2021-11-08T19:56:58Z" duration-ms="8667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchEngine -->
+        <test-method signature="sample()[pri:0, instance:org.testngtrial.TestNgCheck@5f577419]" started-at="2021-11-08T19:56:58Z" name="sample" finished-at="2021-11-08T19:57:37Z" duration-ms="38707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+        <test-method is-config="true" signature="closed()[pri:0, instance:org.testngtrial.TestNgCheck@5f577419]" started-at="2021-11-08T19:57:37Z" name="closed" finished-at="2021-11-08T19:57:39Z" duration-ms="1691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closed -->
+      </class> <!-- org.testngtrial.TestNgCheck -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
